@@ -124,7 +124,6 @@ r.MoveL(p(913.203,11.8774,163.193,173.458,-48.1296,-166.856),[-6.20609,-86.1947,
 r.MoveL(p(1685.13,32.5589,6.33493,173.458,-48.1296,-166.856),[-4.1108,-52.2296,106.602,13.4094,40.4581,-11.6734],[0,0,0])
 r.ProgFinish(r"""Prog1""")
 r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
-
 ```
 ### Simulation
 ![kin1](https://github.com/Janani-2003/Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK/assets/94288340/0158eed2-87b0-45e8-9a7f-9b16678f88cc)
